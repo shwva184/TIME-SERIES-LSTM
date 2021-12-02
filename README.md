@@ -39,4 +39,4 @@ Predicted output :
 
 
 
-
+Referred from : https://github.com/BenjiKCF/Neural-Net-with-Financial-Time-Series-Data
