@@ -35,8 +35,8 @@ Non-trainable params: 0
 ________________________
 
 Predicted output : 
-![opuput](/Capture.png)
+![alt text](http://github.com/shwva184/TIME-SERIES-LSTM/edit/main/Capture.png)
 
 
 
-Referred from : https://github.com/BenjiKCF/Neural-Net-with-Financial-Time-Series-Data
+Inspired by : https://github.com/BenjiKCF/Neural-Net-with-Financial-Time-Series-Data
