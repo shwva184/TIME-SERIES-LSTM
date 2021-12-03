@@ -12,30 +12,11 @@ The time series has been split into shorter series of 30 data points , approxima
 
 Applied model summary is as follows :
 
-_________________________________________________________________
- Layer (type)                Output Shape              Param #   
-=================================================================
- lstm_12 (LSTM)              (None, 30, 128)           68096     
-                                                                 
- dropout_12 (Dropout)        (None, 30, 128)           0         
-                                                                 
- lstm_13 (LSTM)              (None, 128)               131584    
-                                                                 
- dropout_13 (Dropout)        (None, 128)               0         
-                                                                 
- dense_12 (Dense)            (None, 64)                8256      
-                                                                 
- dense_13 (Dense)            (None, 1)                 65        
-                                                                 
-=================================================================
-
-Total params: 208,001
-Trainable params: 208,001
-Non-trainable params: 0
-________________________
+![alt text](https://github.com/shwva184/TIME-SERIES-LSTM/blob/main/Capture1.PNG?raw=true)
 
 Predicted output : 
-![alt text](http://github.com/shwva184/TIME-SERIES-LSTM/edit/main/Capture.png)
+
+![alt text](https://github.com/shwva184/TIME-SERIES-LSTM/blob/main/Capture.PNG?raw=true)
 
 
 
